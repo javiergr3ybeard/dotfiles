@@ -1,0 +1,13 @@
+Feb 16 13:24 : exception: Failed to open /home/javiergreybeard/.mpd/mpdstate: No such file or directory
+Feb 16 13:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 13:24 : exception: Failed to enable output "pulse audio" [pulse]
+Feb 16 13:24 : exception: nested: pa_context_connect() has failed: Connection refused
+Feb 16 13:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 13:24 : exception: Failed to enable output "pulse audio" [pulse]
+Feb 16 13:24 : exception: nested: pa_context_connect() has failed: Connection refused
+Feb 16 13:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 13:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 13:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 13:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 13:47 : client: [0] opened from 127.0.0.1:54814
+Feb 16 13:48 : client: [0] closed
