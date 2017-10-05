@@ -14,7 +14,7 @@ endif
 let g:colors_name="custom"
 
 if ( &t_Co >= 255 || $TERM =~? "256color" )
-  hi Normal         term=none cterm=none ctermfg=54   ctermbg=none
+  hi Normal         term=none cterm=none ctermfg=93 ctermbg=none
   hi Boolean        term=none cterm=none ctermfg=51  ctermbg=none
   hi Character      term=none cterm=none ctermfg=60   ctermbg=none
   hi Comment        term=none cterm=none ctermfg=68  ctermbg=234

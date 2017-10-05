@@ -35,13 +35,12 @@ floating_modifier $mod
 for_window [instance="urxvt"] floating enable
 for_window [instance="thunar"] floating enable
 for_window [instance="qiv"] floating enable
-for_window [instance="terminator"] floating enable
 
 # start urxvt with a keybinding and on i3 startup
 exec urxvt
 exec feh  --bg-scale '/home/javiergreybeard/.Wallpapers/pirate.jpg'
 exec nm-applet
-bindsym $mod+Return exec terminator
+bindsym $mod+Return exec urxvt
 
 # lock i3
 bindsym $mod+shift+x exec i3lock
